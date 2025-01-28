@@ -29,13 +29,13 @@ Escritor y, ¿por qué no?, poeta.
 
 Como las redes sociales están cada vez más saturadas y son menos aptas para compartir y socializar archivos (como hicimos durante tanto tiempo en foros y blogs), elegí crear esta página para compartir mis apuntes de la facultad. 
 
-## carpetas subidas:
+## carpetas subidas
 - [[Apuntes/Lingüística|Lingüística (2024)]]
 - [[Apuntes/Literatura alemana|Literatura alemana (2024)]]
 - [[Apuntes/Teoría de la crítica|Teoría de la crítica (2021)]]
-## carpetas a subir:
+## carpetas a subir
 - [[Apuntes/Literatura argentina I|Literatura argentina I (2019)]] *(en proceso)*
 - [[Apuntes/Literatura argentina II|Literatura argentina II (2019)]] *(en proceso)*
-## actualmente preparando:
+## actualmente preparando
 - [[Apuntes/Metodología|Metodología de la investigación literaria (2021)]]
 - La tesina *(próximamente)*
