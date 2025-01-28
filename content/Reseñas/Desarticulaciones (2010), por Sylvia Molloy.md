@@ -1,5 +1,8 @@
 ---
 date: 2024-11-11
+tags:
+  - nouvelle
+  - autobiografía
 ---
 
 Hoy quiero recomendar una novela corta, una lectura breve que puede finalizarse en una hora, sin ser por eso menos impactante y memorable que libros veinte veces más largos.
