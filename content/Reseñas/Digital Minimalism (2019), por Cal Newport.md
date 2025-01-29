@@ -1,5 +1,5 @@
 ---
-date: 2019-01-28
+date: 2025-01-28
 tags:
   - no-ficción
   - autoayuda
