@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cinzel",
-        body: "Source Serif 4",
-        code: "IBM Plex Mono",
+        header: "EB Garamond",
+        body: "Merriweather",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
