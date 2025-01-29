@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-      header: "Playfair Display", // Serif dramática para títulos
-      body: "Crimson Pro", // Serif legible para texto
-      code: "Space Mono", // Monoespacio para contraste techie
+        header: "Schibsted Grotesk",
+        body: "Source Serif 4",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
