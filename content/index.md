@@ -18,7 +18,7 @@ Licenciado en Letras (UNLP).
 
 Profesor de Lengua y Literatura. 
 
-Escritor y, ¿por qué no?, poeta. 
+Escritor.
 
 ## explorá mi portafolio
 - **[[Escritos/Cuentos/|mis cuentos]]** 
