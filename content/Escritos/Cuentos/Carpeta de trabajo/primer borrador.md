@@ -1,6 +1,7 @@
 ---
 date: 2024-11-30
 ---
+*(de: [[Petete]])*
 
 Las torres se elevan, se inclinan sobre mí, y la ciudad vacía, y no sé cómo llegué hasta aquí, y los
 
