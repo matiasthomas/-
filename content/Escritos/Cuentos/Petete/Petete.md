@@ -1,3 +1,6 @@
+---
+date: 2025-02-03
+---
 La ciudad está vacía. 
 
 La avenida por la que avanzo tiene veintidós carriles desiertos; todos sus árboles están muertos, secos, desnudos. El aire es un líquido espeso e hirviente, que me quema los ojos, que se niega a vaciar mis pulmones. 
@@ -28,7 +31,7 @@ Mamá llevaba una bolsa; su novio le había comprado un vestido, y ella se desha
 
 Yo solo pensaba en volver a casa y poner ese *cassette* en el estéreo, hasta que cruzamos la puerta: habíamos entrado por una avenida y salimos por una peatonal, y fue como cambiar de ciudad. El ruido de los autos era ahora un torrente de gente; los edificios, ahora mucho más cerca a izquierda y derecha, se me venían encima. Habíamos salido del palacio, pero los negocios no se detenían: ocupaban todas las plantas bajas hasta donde alcanzaba mi vista.
 
-Seguimos ese camino. Caminamos y caminamos, a la par de un millar de porteños que iban o venían. Yo miraba todo pensando que eso no terminaba nunca, hasta que giramos dos veces y estábamos en un parque hermoso, con palmeras enormes. Allá a lo lejos, la Casa Rosada, y más acá el Cabildo, dos lugares que conocía por la escuela y por la tele, pero que en realidad no conocía. Había menos gente que en la peatonal que habíamos dejado más atrás, y pude notar a un grupo de señoras que avanzaba por una de las veredas de la plaza. Todas ellas llevaban un pañuelo blanco; por eso hoy sé que ese día fue jueves.
+Seguimos esa calle. Caminamos y caminamos, a la par de un millar de porteños que iban o venían. Yo miraba todo pensando que eso no terminaba nunca, hasta que giramos dos veces y estábamos en un parque hermoso, con palmeras enormes. Allá a lo lejos, la Casa Rosada, y más acá el Cabildo, dos lugares que conocía por la escuela y por la tele, pero que en realidad no conocía. Había menos gente que en la peatonal que habíamos dejado más atrás, y pude notar a un grupo de señoras que avanzaba por una de las veredas de la plaza. Todas ellas llevaban un pañuelo blanco; por eso hoy sé que ese día fue jueves.
 
 Ya comenzaba a ponerse el sol cuando subimos al colectivo para volver a Zona Sur. Mi mente estaba en el Obelisco, en los murales de Galerías Pacífico, en los mares de autos y gente, en los pañuelos blancos. Recién cuando llegamos al barrio pude salir de ese ensueño, y darme cuenta de que el brillo del barrio había desaparecido para siempre. 
 
@@ -50,7 +53,7 @@ No los había notado cuando era chico, pero ahora advertía que eran cada vez m�
 
 ---
 
-Ayer nos juntamos a matear con compañeros del viejo barrio: fuimos a la casa de mi padrastro. Era miércoles, y escuchamos la radio hasta que se pasó la hora de la cena, y después un poco más. Escuchábamos sobre los saqueos y los disparos en otras ciudades: intuíamos que a unas cuadras, en el centro de Lanús, sería igual. Pero nosotros estábamos en las afueras de Monte Chingolo, y la noche era calurosa y callada. Había luciérnagas en el aire. La lista de víctimas iba engordando, mate a mate, y con ella el pesado silencio en el que estábamos sumidos. 
+Ayer nos juntamos a matear con compañeros del viejo barrio; fuimos a la casa de mi padrastro. Era miércoles, y escuchamos la radio hasta que se pasó la hora de la cena, y después un poco más. Escuchábamos sobre los saqueos y los disparos en otras ciudades: imaginábamos que a unas cuadras, en el centro de Lanús, sería igual. Pero nosotros estábamos en las afueras de Monte Chingolo, y la noche era calurosa y callada. Había luciérnagas en el aire. La lista de víctimas iba engordando, mate a mate, y con ella el pesado silencio en el que estábamos sumidos. 
 
 Cuando ya debía ser muy tarde, mamá se nos acercó en silencio y nos hizo sobresaltarnos cuando preguntó: 
 
@@ -100,7 +103,7 @@ Todos nos agachamos y la muchedumbre se dispersa a los gritos. Hay una segunda a
 
 Todo es gritos, transpiración, gas. Las detonaciones ahora parecen constantes. El humo nos persigue, no podemos parar.
 
-La formación es casi un recuerdo, y sigo rezando no haber dejado a nadie en el camino. Ya no sé a qué altura estamos, sólo sé que necesitamos salir de ahí, cruzar la 9 de Julio. Por la derecha, los tres motociclistas de antes nos pasan a toda velocidad; un momento después, algo restalla detrás de nosotros y, con un grito, el último de ellos cae de la moto, que sigue avanzado sola todavía media cuadra más.
+La formación es casi un recuerdo, y sigo rezando por no haber dejado a nadie en el camino. Ya no sé a qué altura estamos, sólo sé que necesitamos salir de ahí, cruzar la 9 de Julio. Por la derecha, los tres motociclistas de antes nos pasan a toda velocidad; un momento después, algo restalla detrás de nosotros y, con un grito, el último de ellos cae de la moto, que sigue avanzado sola todavía media cuadra más.
 
 Me mareo, la visión se me oscurece, no sé cómo sigo avanzando. Estoy sediento. Cuando me doy cuenta, me encuentro al frente, ya no de mi grupo sino de la confusión entera que está intentando huir, vivir. Estamos en la esquina de Irigoyen.
 
